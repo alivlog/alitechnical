@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/alitechnical/static/css/main.85d9d0c6.chunk.css",
+    "main.js": "/alitechnical/static/js/main.e71ccdd9.chunk.js",
+    "main.js.map": "/alitechnical/static/js/main.e71ccdd9.chunk.js.map",
+    "runtime-main.js": "/alitechnical/static/js/runtime-main.7599f5a1.js",
+    "runtime-main.js.map": "/alitechnical/static/js/runtime-main.7599f5a1.js.map",
+    "static/css/2.74c02967.chunk.css": "/alitechnical/static/css/2.74c02967.chunk.css",
+    "static/js/2.b98631b0.chunk.js": "/alitechnical/static/js/2.b98631b0.chunk.js",
+    "static/js/2.b98631b0.chunk.js.map": "/alitechnical/static/js/2.b98631b0.chunk.js.map",
+    "static/js/3.432ddf82.chunk.js": "/alitechnical/static/js/3.432ddf82.chunk.js",
+    "static/js/3.432ddf82.chunk.js.map": "/alitechnical/static/js/3.432ddf82.chunk.js.map",
+    "index.html": "/alitechnical/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/alitechnical/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.85d9d0c6.chunk.css.map": "/alitechnical/static/css/main.85d9d0c6.chunk.css.map",
+    "static/js/2.b98631b0.chunk.js.LICENSE.txt": "/alitechnical/static/js/2.b98631b0.chunk.js.LICENSE.txt",
+    "static/media/android.a23edf32.jpg": "/alitechnical/static/media/android.a23edf32.jpg",
+    "static/media/app.d491b82e.jpg": "/alitechnical/static/media/app.d491b82e.jpg",
+    "static/media/digital.e3e50ecf.png": "/alitechnical/static/media/digital.e3e50ecf.png",
+    "static/media/logo.6ce24c58.svg": "/alitechnical/static/media/logo.6ce24c58.svg",
+    "static/media/marketing.2e0d6008.jpg": "/alitechnical/static/media/marketing.2e0d6008.jpg",
+    "static/media/software.a506277f.jpg": "/alitechnical/static/media/software.a506277f.jpg",
+    "static/media/technical.54200722.png": "/alitechnical/static/media/technical.54200722.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7599f5a1.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.b98631b0.chunk.js",
+    "static/css/main.85d9d0c6.chunk.css",
+    "static/js/main.e71ccdd9.chunk.js"
+  ]
+}
